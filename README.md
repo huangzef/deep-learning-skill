@@ -1,6 +1,4 @@
 [README.md](https://github.com/user-attachments/files/28541988/README.md)
-# deep-learning-skill
-the skills to learn math、physics and humanities
 # 深度解码器三部曲：从数学到物理再到人文
 
 本仓库包含三个相互关联的深度解码器技能，专为**自学型学习者**设计。它们共享同一套底层哲学——**学习不是被动接收，而是主动解码**——但各自针对截然不同的知识领域进行了深度定制。
